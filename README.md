@@ -2,8 +2,10 @@
 
 Respository consists of various representative clustering methods (kmeans+, gaussian, and hierarchal clustering) aimed at analyzing spring chemistry data on Kaibab Plateau north of Grand Canyon, AZ.  Purpose is to indentify springs that have similar chemistries and therefore possibly connected flow paths and similar origins.
 
+Image originally from Wood, A.J., 2019, Hydrogeology of the Coconino Aquifer, Kaibab Plateau, Grand Canyon, AZ
+Location of springs used in analysis:
+![Location of springs used in analysis](/KP_springs.png)
 
+Hierarchical Clustering based on water chemistry of spring on the KP
 ![Hierarchical Clustering based on water chemistry of spring on the KP](/h_cluster_KP-Springs.png)
 
-Image originally from Wood, A.J., 2019, Hydrogeology of the Coconino Aquifer, Kaibab Plateau, Grand Canyon, AZ 
-![Location of springs used in analysis](/KP_springs.png)
