@@ -10,7 +10,7 @@ Image originally from Wood, A.J., 2019, Hydrogeology of the Coconino Aquifer, Ka
 ![Location of springs used in analysis](/KP_springs.png)
 
 
-### Hierarchical Clustering based on water chemistry of spring on the KP
+### Hierarchical Clustering based on water chemistry of springs on the KP
 
-![Hierarchical Clustering based on water chemistry of spring on the KP](/h_cluster_KP-Springs.png)
+![Hierarchical Clustering based on water chemistry of springs on the KP](/h_cluster_KP-Springs.png)
 
