@@ -14,3 +14,7 @@ Image originally from Wood, A.J., 2019, Hydrogeology of the Coconino Aquifer, Ka
 
 ![Hierarchical Clustering based on water chemistry of springs on the KP](/h_cluster_KP-Springs.png)
 
+### Plot of first two Principal Components and loadings
+
+
+### Screeplot of cummulative variance
